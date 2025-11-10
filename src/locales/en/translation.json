@@ -1,0 +1,769 @@
+{
+  "header": {
+    "home": "Home",
+    "company": "Our Company",
+    "services": "Products and Services",
+    "policies": "Policies",
+    "customerService": "Customer Service",
+    "call": "Call",
+    "freeConsultation": "Free Consultation"
+  },
+  "home": {
+    "badge": "Leaders in Credit Solutions",
+    "title": "Transform your",
+    "titleHighlight": "Financial Future",
+    "description": "GMVP financial and credit advisory, we are a company for individuals and legal entities, requiring advisory or financing, advisory services on reports in credit bureaus, credit life initiation, credit recovery, removal of reports from DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, through legal means or negotiation, acquisition of financial products.",
+    "freeConsultation": "Free Consultation",
+    "viewServices": "View Services",
+    "rating": "4.9/5 (1000+ reviews)",
+    "location": "Bogotá D.C., Armenia, Quindío, Pereira Risaralda",
+    "creditEvolution": "Credit Evolution",
+    "progress": "Real-time progress",
+    "live": "LIVE",
+    "currentScore": "750",
+    "timeLabels": {
+      "today": "Today",
+      "1m": "1M",
+      "3m": "3M",
+      "6m": "6M",
+      "1y": "1Y",
+      "6mAgo": "6m ago",
+      "4mAgo": "4m ago",
+      "2mAgo": "2m ago",
+      "now": "Now"
+    },
+    "stats": {
+      "initial": "Initial",
+      "improvement": "Improvement",
+      "final": "Final",
+      "points": "650 pts",
+      "timeframe": "Last 6 months"
+    },
+    "services": "Our Services",
+    "servicesDescription": "Financial solutions designed to transform your credit history",
+    "serviceItems": {
+      "financial": {
+        "title": "Financial Advisory",
+        "description": "Personalized strategies to get out of credit bureaus"
+      },
+      "insurance": {
+        "title": "Insurance",
+        "description": "We finance insurance with the best market rates"
+      },
+      "portfolio": {
+        "title": "Portfolio Purchase",
+        "description": "We buy portfolios with free expert analysis"
+      },
+      "revolving": {
+        "title": "Revolving Credit",
+        "description": "Revolving credit line to reactivate your credit history"
+      }
+    },
+    "whyChoose": "Why choose GMVP Financial?",
+    "whyChooseDescription": "We are committed to providing you with the best financial experience with guaranteed results",
+    "features": {
+      "fast": {
+        "title": "Fast Results",
+        "description": "See improvements in your credit history in 30 days"
+      },
+      "personalized": {
+        "title": "Personalized Strategies",
+        "description": "Each case receives a specific and detailed plan"
+      },
+      "transparent": {
+        "title": "No Hidden Costs",
+        "description": "Total transparency in all our processes"
+      },
+      "guaranteed": {
+        "title": "Results Guarantee",
+        "description": "If you don't meet the process requirements, we refund your money"
+      }
+    },
+    "testimonials": "Success Stories",
+    "testimonialsDescription": "Learn about the real experiences of our clients",
+    "testimonial1": {
+      "initials": "MG",
+      "name": "María González",
+      "role": "Businesswoman • Bogotá",
+      "quote": "I improved my score from 580 to 750 in 6 months. Now I have access to loans I couldn't get before.",
+      "result": "+170 points"
+    },
+    "testimonial2": {
+      "initials": "CR",
+      "name": "Carlos Rodríguez",
+      "role": "Professional • Medellín",
+      "quote": "Excellent service. They guided me to get out of Datacrédito and CIFIN in just 4 months.",
+      "result": "Clean history"
+    },
+    "testimonial3": {
+      "initials": "AM",
+      "name": "Ana Martínez",
+      "role": "Entrepreneur • Cali",
+      "quote": "I got the loan for my business thanks to their advice. Very professional and effective.",
+      "result": "$50M approved"
+    },
+    "cta": {
+      "title": "Ready to transform your",
+      "titleHighlight": "Financial Future?",
+      "description": "At GMVP financial and credit advisory we have the best Financial Advisors and Lawyers, with a wide portfolio of services, financial products and specialized advisory.",
+      "button": "Free Consultation Now",
+      "viewServices": "View Services"
+    }
+  },
+  "company": {
+    "badge": "Our History",
+    "title": "Transforming",
+    "titleHighlight": "Financial Lives",
+    "titleSuffix": "since 2015",
+    "description": "GMVP financial and credit advisory, we are a company for individuals and legal entities, requiring advisory or financing, advisory services on reports in credit bureaus, credit life initiation, credit recovery, removal of reports from DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, through legal means or negotiation, acquisition of financial products.",
+    "knowTeam": "Meet Our Team",
+    "viewServices": "View Services",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To be GMVP financial and credit advisory company, for people who wish to initiate credit life, or wish to restart or improve their credit history through easily accessible solutions.",
+      "items": [
+        "Personalized strategies for each case",
+        "Total transparency in our processes",
+        "Verifiable and measurable results",
+        "Commitment to our clients' success"
+      ]
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Achieve the growth objective with loyal clients, quality products and satisfied staff.",
+      "teamAttitude": "Team Attitude",
+      "items": [
+        "Highly qualified with great service quality",
+        "Extensive experience in financial, cooperative, real estate, telecommunications sectors",
+        "The best Financial Advisors and Lawyers",
+        "Extensive knowledge of Habeas Data Law 1266 of 2008 Law 2157 of 2021"
+      ]
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "The principles that guide every decision and action at GMVP Credifinanzas",
+      "passion": {
+        "title": "Passion for the Client",
+        "description": "Our total commitment, respect for clients, with great human warmth, service vocation for everyone and the general public."
+      },
+      "commitment": {
+        "title": "Commitment",
+        "description": "Committed from the beginning to the end of our service, for our clients, our top priority in the exercise of our work."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We innovate every day to be at the forefront, as well as bring our clients closer with daily innovation."
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "We have confidence in what we do, it is our greatest strength, where our clients trust, we demonstrate seriousness, clarity, promptness, in what we offer."
+      },
+      "agility": {
+        "title": "Agility",
+        "description": "Our agility processes are aimed at solving our clients' inconveniences, the processes are agile, as soon as possible, with high quality service."
+      }
+    },
+    "history": {
+      "title": "Our History",
+      "description": "The history of GMVP financial and credit advisory began in 2015 when we identified a real need in the Colombian market: the lack of specialized guidance for people facing difficulties with credit bureaus. Since then, we have developed effective strategies to help our clients recover their financial health and access new credit opportunities.",
+      "milestones": {
+        "2015": {
+          "title": "The Beginning of a Vision",
+          "description": "We founded GMVP financial and credit advisory, with the conviction that everyone deserves a second financial opportunity. We were born to be the bridge between credit difficulties and a prosperous financial future."
+        },
+        "2016": {
+          "title": "Development of Specialized Methodologies",
+          "description": "We developed innovative and effective strategies to help our clients get out of the main credit bureaus: CIFIN-TRANSUNION, DATACREDITO and EXPERIAN."
+        },
+        "2018": {
+          "title": "Expansion and Diversification",
+          "description": "We expanded our service portfolio to serve both individuals and legal entities, offering comprehensive financial advisory and credit facilitation solutions."
+        },
+        "2020": {
+          "title": "Innovation in Placements",
+          "description": "We implemented our credit program, helping our clients obtain their first credit or reactivate their credit history through cooperatives with the backing of reliable financial institutions."
+        },
+        "2025": {
+          "title": "Consolidated Leadership",
+          "description": "Today we are recognized as leaders in financial advisory, with a solid track record and hundreds of successful cases that support our experience and commitment."
+        }
+      }
+    },
+    "cta": {
+      "needHelp": "Need Help?",
+      "haveQuestions": "Do you have",
+      "questions": "Questions?",
+      "description": "At GMVP financial and credit advisory we have the best Financial Advisors and Lawyers, with a wide portfolio of services, financial products and specialized advisory.",
+      "contactNow": "Contact Us Now",
+      "ourServices": "Our Services",
+      "specializedAdvisory": "Specialized Advisory",
+      "secureProcesses": "Secure Processes",
+      "guaranteedResults": "Guaranteed Results"
+    }
+  },
+  "services": {
+    "badge": "Financial Solutions",
+    "title": "Products and",
+    "titleHighlight": "Services",
+    "description": "At GMVP financial and credit advisory, we offer a complete range of financial solutions designed to improve your credit history and access better financial opportunities.",
+    "freeConsultation": "Free Consultation",
+    "knowHistory": "Know Our History",
+    "ourServices": "Our Services",
+    "selectService": "Select the service that best suits your financial needs",
+    "serviceCards": {
+      "asesorias": {
+        "title": "Financial Advisory",
+        "subtitle": "We get out of Credit Bureaus"
+      },
+      "seguros": {
+        "title": "Insurance",
+        "subtitle": "We finance your Insurance"
+      },
+      "cartera": {
+        "title": "Portfolio Purchase",
+        "subtitle": "We buy your Debt"
+      },
+      "rotativo": {
+        "title": "Revolving Credit",
+        "subtitle": "Reactivate your History"
+      }
+    },
+    "details": {
+      "whatIncludes": "What's included?",
+      "benefits": "Benefits",
+      "requirements": "Requirements",
+      "duration": "Duration",
+      "success": "Success",
+      "requestNow": "Request Now"
+    },
+    "asesorias": {
+      "title": "Financial Advisory",
+      "subtitle": "We get out of Credit Bureaus",
+      "description": "We recover credit life through legal means and negotiations to clean Credit Bureaus. We help you get out of cifin-transunion, Datacrédito-experian, and other credit bureaus with personalized strategies and guaranteed results.",
+      "duration": "90-120 days",
+      "success": "95% rate",
+      "includes": [
+        "Complete analysis of your credit history",
+        "Personalized strategies per case",
+        "Accompaniment throughout the process",
+        "Verifiable results in 30-120 days",
+        "Satisfaction guarantee"
+      ],
+      "benefits": [
+        "95% success rate",
+        "Average improvement of 650 points",
+        "Completely transparent process",
+        "No hidden costs"
+      ],
+      "requirements": [
+        "Identity document",
+        "Income certificates",
+        "Current credit history"
+      ]
+    },
+    "seguros": {
+      "title": "Insurance",
+      "subtitle": "We finance your Insurance",
+      "description": "We finance life, debtor and SOAT insurance with the best market rates and flexible conditions.",
+      "duration": "1-12 months",
+      "success": "95% rate",
+      "includes": [
+        "Life insurance with complete coverage",
+        "Debtor insurance to protect your family",
+        "SOAT with the best insurers",
+        "Financing up to 12 months",
+        "Specialized advisory"
+      ],
+      "benefits": [
+        "Best market rates",
+        "Flexible financing",
+        "Quick and simple process",
+        "National coverage"
+      ],
+      "requirements": [
+        "Identity document",
+        "Income certificate",
+        "Vehicle information (SOAT)"
+      ]
+    },
+    "cartera": {
+      "title": "Portfolio Purchase",
+      "subtitle": "We buy your Debt",
+      "description": "We buy portfolios from financial, cooperative, real estate and telecommunications entities with expert analysis.",
+      "duration": "15-45 days",
+      "success": "95% rate",
+      "includes": [
+        "Free analysis of your portfolio",
+        "Purchase of bank debts",
+        "Cooperative portfolios",
+        "Real estate debts",
+        "Telecommunications and services"
+      ],
+      "benefits": [
+        "Completely free analysis",
+        "Better payment conditions",
+        "Interest reduction",
+        "Flexible payment plan"
+      ],
+      "requirements": [
+        "Identity document",
+        "Debt certificates",
+        "Payment history"
+      ]
+    },
+    "rotativo": {
+      "title": "Revolving Credit",
+      "subtitle": "Reactivate your History",
+      "description": "Revolving credit line to start or improve your credit history with quick approval and favorable conditions.",
+      "duration": "12-36 months",
+      "success": "95% rate",
+      "includes": [
+        "Approval in 24-48 hours",
+        "No guarantor or co-debtor",
+        "Free use of the credit line",
+        "Flexible payments",
+        "Report to credit bureaus"
+      ],
+      "benefits": [
+        "Quick approval",
+        "Improve your credit history",
+        "Free use of money",
+        "Competitive conditions"
+      ],
+      "requirements": [
+        "Identity document",
+        "Income certificate",
+        "Commercial references"
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Answers to the most common questions about our services",
+      "questions": {
+        "q1": "How long does the financial advisory process take?",
+        "a1": "The complete process takes between 30 and 120 days depending on the complexity of the case. We work efficiently to obtain results as quickly as possible.",
+        "q2": "What documents do I need to request a service?",
+        "a2": "The basic documents are: identity document, income certificates, and depending on the service, additional specific information. We guide you through the entire process.",
+        "q3": "Is there a guarantee on the services?",
+        "a3": "Yes, we offer a satisfaction guarantee. If you don't meet the requirements and we follow our process, we guarantee results or refund your money.",
+        "q4": "Can I combine several services?",
+        "a4": "Absolutely. Many of our clients combine financial advisory with portfolio purchase or revolving credit to achieve better results.",
+        "q5": "Do you serve all of Colombia?",
+        "a5": "We serve in Bogotá D.C., Armenia, Quindío, Pereira Risaralda, in person, virtually throughout Colombia and abroad."
+      }
+    },
+    "cta": {
+      "title": "Ready to",
+      "titleHighlight": "Improve your Situation?",
+      "description": "Schedule a free consultation and discover how we can help you achieve your financial goals",
+      "button": "Free Consultation",
+      "knowHistory": "Know Our History"
+    }
+  },
+  "customerService": {
+    "title": "Contact Us",
+    "description": "We are here to help you with all your financial needs",
+    "service24": "Customer Service 24/7",
+    "sendMessage": "Send us a Message",
+    "formDescription": "Complete the form and we will contact you as soon as possible.",
+    "form": {
+      "name": "Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "cellphone": "Cellphone",
+      "city": "City",
+      "department": "Department",
+      "selectDepartment": "Select your department",
+      "comment": "Comment or Message",
+      "commentPlaceholder": "Tell us how we can help you...",
+      "acceptPolicies": "I accept the",
+      "privacyPolicy": "Privacy Policy",
+      "send": "Send Message",
+      "namePlaceholder": "Your name",
+      "lastNamePlaceholder": "Your last name",
+      "emailPlaceholder": "your@email.com",
+      "phonePlaceholder": "Your landline",
+      "cellphonePlaceholder": "Your cellphone number",
+      "cityPlaceholder": "Your city"
+    },
+    "office": "Office",
+    "contactUs": "Contact Us",
+    "contactMethods": {
+      "phone": {
+        "title": "Phone",
+        "primary": "(57) 318 640 1900",
+        "secondary": "Monday to Friday 8:00 AM - 6:00 PM"
+      },
+      "email": {
+        "title": "Email",
+        "primary": "info@gmvpcredifinanzas.com",
+        "secondary": "Response within 24 hours"
+      },
+      "customerService": {
+        "title": "Customer Service",
+        "primary": "servicioalcliente@gmvpcredifinanzas.com",
+        "secondary": "Specialized attention"
+      },
+      "legal": {
+        "title": "Judicial Notifications",
+        "primary": "notificacionesjudiciales@gmvpcredifinanzas.com",
+        "secondary": "Legal matters"
+      }
+    },
+    "chatButton": "Chat with Us",
+    "followUs": "Follow Us",
+    "cta": {
+      "title": "Reported and want to know how to have a credit life again?",
+      "description": "Our specialized team will help you recover your credit history and access better financial opportunities."
+    },
+    "additionalPolicies": {
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "legal": "Legal Notice",
+      "copyright": "Copyright © 2025 GMVP Credifinanzas S.A.S"
+    },
+    "formSuccess": "Thank you for your message! We will contact you soon."
+  },
+  "footer": {
+    "companyName": "GMVP Credifinanzas",
+    "tagline": "Financial Solutions",
+    "description": "We transform your credit history with personalized strategies and guaranteed results. More than 10 years helping Colombians access better financial opportunities.",
+    "reviews": "1000+ reviews",
+    "successRate": "Success rate",
+    "location": "Bogotá D.C., Armenia, Quindío, Pereira Risaralda",
+    "locationDescription": "In person, virtually throughout Colombia and abroad",
+    "phone": "+57 3186401900",
+    "schedule": "Monday to Friday 8AM - 6PM",
+    "email": "info@gmvpcredifinanzas.com",
+    "responseTime": "Response within 24 hours",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "followUs": "Follow Us",
+    "services": [
+      "Financial Advisory",
+      "Credit advisory",
+      "Individuals and legal entities"
+    ],
+    "copyright": "© 2025 GMVP Credifinanzas S.A.S. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "legalNotice": "Legal Notice"
+  },
+  "policies": {
+    "title": "Policies",
+    "corporate": "Corporate",
+    "description": "Legal framework to provide clear and complete information to our clients",
+    "badge": "Reliability and Guaranteed Support",
+    "intro": {
+      "title": "What do our company policies consist of?",
+      "description": "Corporate policies establish the legal framework to provide clear and complete information to our clients, thus ensuring the reliability and support of our work team in relation to the client."
+    },
+    "ourPolicies": {
+      "title": "Our",
+      "titleHighlight": "Policies",
+      "description": "Committed to transparency and legal compliance"
+    },
+    "collection": {
+      "title": "Collection Policy",
+      "description": "Our policy is based on requirements, after thirty calendar days, persuasive collection, sixty calendar days pre-legal, ninety calendar days sending to judicial collection.",
+      "phases": "Process Phases:",
+      "phase1": {
+        "days": "30 days",
+        "name": "Persuasive collection",
+        "description": "Initial contact to remind payment"
+      },
+      "phase2": {
+        "days": "60 days",
+        "name": "Pre-legal",
+        "description": "Formal notice of default"
+      },
+      "phase3": {
+        "days": "90 days",
+        "name": "Judicial collection",
+        "description": "Legal recovery process"
+      }
+    },
+    "dataHandling": {
+      "title": "Personal Data Handling Policy",
+      "description": "Our personal data handling policy is in accordance with what is established in Law 1581 of 2012.",
+      "compliance": "Legal Compliance:",
+      "items": [
+        "Full compliance with Law 1581 of 2012",
+        "Personal data protection",
+        "Transparency in information processing",
+        "Data subject rights"
+      ]
+    },
+    "riskManagement": {
+      "title": "Risk Management Policy",
+      "description": "We handle risk management, minimizing the risks of credit placement, facilitating both the person who requires financing, our policy levels in placement.",
+      "measures": "Control Measures:",
+      "items": [
+        "Exhaustive analysis of payment capacity",
+        "Credit history evaluation",
+        "Structuring of secure financial products",
+        "Continuous portfolio monitoring"
+      ]
+    },
+    "compliance": {
+      "title": "Legal",
+      "titleHighlight": "Compliance",
+      "description": "Our commitment to transparency and compliance with all current regulations",
+      "items": {
+        "law1581": {
+          "title": "Law 1581 of 2012",
+          "description": "Personal data protection"
+        },
+        "superintendence": {
+          "title": "Financial Superintendence",
+          "description": "Financial sector regulation"
+        },
+        "riskNorms": {
+          "title": "Risk Standards",
+          "description": "Comprehensive risk management"
+        },
+        "security": {
+          "title": "Information Security",
+          "description": "Sensitive data protection"
+        }
+      }
+    },
+    "cta": {
+      "title": "Do you have more questions?",
+      "description": "Our team is available to resolve any questions about our policies",
+      "contact": "Contact Us"
+    },
+    "additional": {
+      "title": "Additional Policies",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookie Policy",
+      "legal": "Legal Notice",
+      "copyright": "Copyright © 2025 GMVP Credifinanzas S.A.S"
+    }
+  },
+  "privacy": {
+    "title": "Privacy",
+    "titleHighlight": "Policy",
+    "badge": "Data Protection",
+    "description": "Transparency and protection of your personal information",
+    "intro": "The Privacy Policies of <strong>GMVP CREDIFINANZAS S.A.S</strong> establish the terms under which gmvpcredifinanzas.com uses and protects the information provided by its users when using its website. We are committed to the security of user data. When we ask you to fill in personal information fields by which you can be identified, we do so ensuring that it will only be used in accordance with the terms of this document.",
+    "howDataObtained": {
+      "title": "How is data obtained?",
+      "description": "There are different means:",
+      "items": [
+        "Contact form",
+        "Subscription form",
+        "Comments on posts",
+        "Sales form",
+        "Email submissions",
+        "Cookies"
+      ]
+    },
+    "whatInfoCollected": {
+      "title": "What information is collected",
+      "description": "Our website may collect personal information, for example: <strong>Name</strong>, contact information such as your email address and demographic information. Likewise, when necessary, specific information may be required to process an order or make a delivery or billing."
+    },
+    "cookiePolicy": {
+      "title": "Cookie Policy",
+      "description": "See our",
+      "link": "cookie policies"
+    },
+    "useOfInfo": {
+      "title": "Use of information",
+      "description1": "Our website uses the information to provide the best possible service, improve its usability, maintain a record of users, orders (if applicable) and improve our products and services. It is possible that emails will be sent through our site with notifications and offers that we consider relevant to you, these emails will be sent to the address you provide and can be canceled at any time.",
+      "description2": "We are committed to fulfilling our commitment to keep your information safe and confidential."
+    },
+    "rights": {
+      "title": "What are your rights?",
+      "description": "Anyone has the right to obtain confirmation about whether we are processing their personal data.",
+      "rightsTitle": "Interested parties have the right to:",
+      "items": [
+        "Request access to personal data relating to the interested party.",
+        "Request their rectification or deletion.",
+        "Request limitation of their processing.",
+        "Oppose the processing.",
+        "Request data portability."
+      ]
+    },
+    "dataRetention": {
+      "title": "How long will your data be kept?",
+      "description": "The personal data provided will be kept:",
+      "items": [
+        "While the relationship is maintained.",
+        "Until deletion is requested by the interested party.",
+        "In the case of cookies, according to their validity period or their definition to delete them."
+      ]
+    },
+    "acceptance": {
+      "title": "Acceptance and consent",
+      "description1": "The user declares that they have been informed of the conditions regarding the protection of personal data, accepting and consenting to their processing in the manner and for the purposes indicated in this privacy policy.",
+      "description2": "The legal basis for the processing of your data is consent, which is why we require yours to these privacy policies. Additionally, the contracting of products and/or services is based on the terms and conditions set out in the",
+      "legalNotice": "legal notice"
+    },
+    "dataController": {
+      "title": "Data controller",
+      "identity": "Identity of the Controller:",
+      "identityValue": "GMVP CREDIFINANZAS S.A.S",
+      "commercialName": "Commercial Name:",
+      "commercialNameValue": "gmvpcredifinanzas.com",
+      "address": "Address:",
+      "addressValue": "Armenia, Colombia",
+      "email": "Email:",
+      "emailValue": "info@gmvpcredifinanzas.com"
+    },
+    "thirdPartyLinks": {
+      "title": "Third Party Links",
+      "description": "This website may contain links to other sites that may be of interest to you. Once you click on these links and leave our page, we no longer have control over the site to which you are redirected and therefore we are not responsible for the terms or privacy or the protection of your data on those other third-party sites. These sites are subject to their own privacy policies, so it is advisable that you consult them to confirm that you agree with them."
+    },
+    "additional": {
+      "title": "In addition to the Privacy Policies of GMVP CREDIFINANZAS S.A.S",
+      "description": "you can also see:",
+      "cookies": "Cookie Policies",
+      "legal": "Legal Notice"
+    }
+  },
+  "cookies": {
+    "title": "Cookie",
+    "titleHighlight": "Policy",
+    "badge": "Web Technology",
+    "description": "Information about the use of cookies on our website",
+    "intro": "In the Cookie Policy of <strong>GMVP CREDIFINANZAS S.A.S</strong>, we comply with notifying you that this site may automatically collect information when using cookies, which is why we request confirmation and ask you to carefully read both the cookie policies and privacy policies, so that you can enjoy the content with complete peace of mind.",
+    "whatAre": {
+      "title": "What are Cookies?",
+      "description": "Cookies are a tool used by Web servers to store and retrieve information about their visitors. It is nothing more than a text file that some servers ask our browser to write to our hard drive, with information about what we have been doing on their pages. They have an expiration date, which can range from the duration of the session to a specified future date, after which they cease to be operational."
+    },
+    "whyUse": {
+      "title": "What do we use cookies for",
+      "description": "Cookies on this website help to:",
+      "items": [
+        "Make this website work properly",
+        "Save you from having to log in every time you visit this site",
+        "Remember your settings during and between visits",
+        "Allow you to view videos",
+        "Improve site speed/security",
+        "Allow you to share pages with social networks",
+        "Continuously improve this website",
+        "Show you ads based on your browsing habits"
+      ],
+      "neverUse": {
+        "title": "We will never use cookies to:",
+        "items": [
+          "Collect personally identifiable information (without your express permission)",
+          "Collect sensitive information (without your express permission)",
+          "Share personally identifiable data with third parties"
+        ]
+      },
+      "userReject": "As a user, you can reject the processing of data or information by blocking these cookies through the appropriate configuration of your browser. However, you should know that if you do so, this site may not work properly. By entering the site, if you continue browsing, you will be giving your consent for the use of the cookies detailed below."
+    },
+    "types": {
+      "title": "What types of cookies could be used",
+      "own": {
+        "title": "Own cookies:",
+        "session": {
+          "title": "Session storage cookies:",
+          "description": "To ensure that users who write comments on the blog are human and not automated applications. This way spam is combated. These cookies are deleted when you stop browsing our website or, if you have an active session, you also log out."
+        },
+        "local": {
+          "title": "Local storage cookies:",
+          "description": "To keep sessions open and the cookie consent itself saved."
+        }
+      },
+      "other": {
+        "title": "Other cookies:",
+        "description": "You should know that given how the Internet and websites work, it is not always possible to have updated information on all cookies that third parties may use through this website, but we will offer you the most complete list possible and if you consider it necessary, you can check the lock icon that is to the left of the site's URL (in Chrome, for example) and inform us about any additional ones."
+      },
+      "thirdParty": {
+        "title": "Third-party cookies:",
+        "description": "This website, like most websites, includes functionality provided by third parties, therefore in the cookie policy of <strong>GMVP CREDIFINANZAS S.A.S</strong> we comply with mentioning them.",
+        "analytics": {
+          "title": "Analytics cookies:",
+          "description": "They are collected only by third parties, such as Google Analytics, which allows us to quantify the number of users and thus carry out the measurement and statistical analysis of the use that users make of the service offered. For this purpose, their navigation on our website is analyzed in order to improve the offer of products or services that we offer you."
+        },
+        "advertising": {
+          "title": "Advertising cookies:",
+          "description": "Providers, including Google Adsense, use cookies to show relevant ads based on a user's previous visits to their website or other websites. This site may use Google and other types of ads.",
+          "googleLink": "Google",
+          "googleDescription": "The user can consult here the type of cookies used by",
+          "adsLink": "Ad preferences",
+          "adsDescription": "Users can disable Google personalized advertising, for this, they must access"
+        },
+        "social": {
+          "title": "Social media cookies:",
+          "description": "Each social network uses its own cookies so that you can click on buttons like Like or Share. As well as in Facebook comments integrated into some of our articles.",
+          "description2": "Below are the websites of the privacy policies of social networks that could be used by this website:",
+          "links": {
+            "twitter": "Twitter: privacy policy and cookie use",
+            "linkedin": "LinkedIn: Cookie Policy",
+            "facebook": "Facebook: Cookie Policy",
+            "youtube": "YouTube: Cookie Policy"
+          }
+        },
+        "otherCookies": {
+          "title": "Other cookies:",
+          "description": "To improve your experience and functionality, we use third-party components and features offered such as WordPress services. These functionalities may require the use of cookies."
+        }
+      }
+    },
+    "manage": {
+      "title": "How can I manage and disable these cookies?",
+      "description1": "If you wish, it is possible to adapt your browser so that you are notified before cookies are downloaded.",
+      "description2": "You can also modify the browser settings to reject all cookies or only third-party cookies. You can also delete any of the cookies that are already on your computer.",
+      "description3": "Keep in mind that you will have to separately adapt the settings of each browser and device you use.",
+      "browsersTitle": "THIS WEBSITE makes available to users who want to prevent the installation of the aforementioned cookies, links provided for this purpose by browsers whose use is considered most widespread:",
+      "browsers": {
+        "chrome": "Google Chrome",
+        "ie": "Internet Explorer",
+        "firefox": "Mozilla Firefox",
+        "safari": "Apple Safari"
+      }
+    },
+    "additional": {
+      "title": "In addition to the Cookie Policy of GMVP CREDIFINANZAS S.A.S",
+      "description": "you can also see:",
+      "privacy": "Privacy Policies",
+      "legal": "Legal Notice"
+    }
+  },
+  "legal": {
+    "title": "Legal",
+    "titleHighlight": "Notice",
+    "badge": "Terms and Conditions",
+    "description": "Website terms of use",
+    "intro1": "This <strong>LEGAL NOTICE</strong> of <strong>GMVP CREDIFINANZAS S.A.S</strong> regulates the rights and obligations, in relation to access, navigation and use of this website without prejudice to <strong>GMVP CREDIFINANZAS S.A.S</strong> reserving the right to modify, without prior notice, its content, those published at the time of navigation being valid.",
+    "intro2": "By browsing, viewing and using this website, you acquire the status of user and therefore implies on your part the express acceptance of all the clauses that we indicate in this Legal Notice, as well as the rest of warnings or specific clauses that are established in the different sections for contracting, use of services, products, registrations, or sections of the Page.",
+    "warning": "Therefore, if you do not accept the clauses established in this Legal Notice, you must refrain from accessing and/or using the services and/or content made available to you on the Page, proceeding to leave it.",
+    "termination": "<strong>GMVP CREDIFINANZAS S.A.S</strong> may terminate, suspend or interrupt, at any time without prior notice, access to the contents of the page, without the User being able to demand any compensation. However, in the case of platform closure, any payment made for uncompleted annual subscriptions will be refunded.",
+    "companyInfo": {
+      "title": "Personal and Tax Information of the Website Controller",
+      "description": "This website, <strong>gmvpcredifinanzas.com</strong>, belongs to <strong>GMVP CREDIFINANZAS S.A.S</strong>.",
+      "fiscalAddress": "Tax address of the website controller:",
+      "fiscalAddressValue": "Armenia, Quindío",
+      "contact": "Contact:",
+      "contactValue": "info@gmvpcredifinanzas.com"
+    },
+    "revenue": {
+      "title": "Revenue Methods",
+      "description": "We generate revenue in multiple ways.",
+      "advertising": {
+        "title": "Advertising",
+        "description": "We use Adsense ads."
+      },
+      "services": {
+        "title": "Service Sales",
+        "description": "Certain services can be contracted on our site or a commercial agreement can be initiated via email."
+      }
+    },
+    "additional": {
+      "title": "In addition to the Legal Notice of GMVP CREDIFINANZAS S.A.S",
+      "description": "you can also see:",
+      "privacy": "Our Privacy Policy",
+      "cookies": "Our Cookie Policy"
+    }
+  },
+  "common": {
+    "language": "Language",
+    "spanish": "Español",
+    "english": "English"
+  }
+}
