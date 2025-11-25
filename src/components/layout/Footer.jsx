@@ -1,9 +1,10 @@
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import {
-  Star, Award, MapPin, Phone, Mail, ArrowRight, Facebook, Twitter, Instagram, Linkedin
+  Star, Award, Phone, Mail, ArrowRight, Facebook, Twitter, Instagram, Linkedin
 } from 'lucide-react'
 import logo from '../../assets/logo.png'
+import VisitCounter from '../VisitCounter'
 
 export default function Footer() {
   const { t } = useTranslation()
@@ -24,7 +25,7 @@ export default function Footer() {
               <div className="relative">
                 <img 
                   src={logo} 
-                  alt="GMVP Credifinanzas S.A.S" 
+                  alt="GMVP Asesoramiento Financiero y Crediticio" 
                   className="h-16 w-auto object-contain"
                 />
                 <div className="absolute inset-0 bg-gradient-to-r from-amber-400 to-orange-500 rounded-full opacity-20 blur-lg"></div>
@@ -39,7 +40,7 @@ export default function Footer() {
             </p>
             
             {/* Stats Cards */}
-            <div className="grid grid-cols-2 gap-4 mb-8">
+            <div className="grid grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
               <div className="bg-white/5 backdrop-blur-sm rounded-xl p-4 border border-white/10">
                 <div className="flex items-center space-x-2 mb-2">
                   <Star className="w-5 h-5 text-amber-400 fill-amber-400" />
@@ -54,19 +55,11 @@ export default function Footer() {
                 </div>
                 <p className="text-gray-400 text-sm">{t('footer.successRate')}</p>
               </div>
+              <VisitCounter variant="default" className="col-span-2 lg:col-span-1" />
             </div>
 
             {/* Contact Info */}
             <div className="space-y-4">
-              <div className="flex items-center space-x-3 text-gray-300">
-                <div className="w-10 h-10 bg-gradient-to-r from-amber-500 to-orange-500 rounded-full flex items-center justify-center">
-                  <MapPin className="w-5 h-5 text-white" />
-                </div>
-                <div>
-                  <p className="font-medium">{t('footer.location')}</p>
-                  <p className="text-sm text-gray-400">{t('footer.locationDescription')}</p>
-                </div>
-              </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <div className="w-10 h-10 bg-gradient-to-r from-amber-500 to-orange-500 rounded-full flex items-center justify-center">
                   <Phone className="w-5 h-5 text-white" />

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import {
   Shield, ArrowRight, Clock, Database, CheckCircle2, Phone, MessageCircle,
-  Scale, FileText, Lock
+  Scale, FileText, Lock, Building2
 } from 'lucide-react'
 
 export default function Politicas() {
@@ -226,12 +226,13 @@ export default function Politicas() {
               </p>
             </motion.div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
               {[
                 { icon: Scale, title: t('policies.compliance.items.law1581.title'), desc: t('policies.compliance.items.law1581.description') },
                 { icon: FileText, title: t('policies.compliance.items.superintendence.title'), desc: t('policies.compliance.items.superintendence.description') },
                 { icon: Shield, title: t('policies.compliance.items.riskNorms.title'), desc: t('policies.compliance.items.riskNorms.description') },
-                { icon: Lock, title: t('policies.compliance.items.security.title'), desc: t('policies.compliance.items.security.description') }
+                { icon: Lock, title: t('policies.compliance.items.security.title'), desc: t('policies.compliance.items.security.description') },
+                { icon: Building2, title: t('policies.compliance.items.sic.title'), desc: t('policies.compliance.items.sic.description') }
               ].map((item, index) => (
                 <motion.div
                   key={index}

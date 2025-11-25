@@ -65,13 +65,6 @@ export default function AvisoLegal() {
                   <div className="flex items-start space-x-3">
                     <Mail className="w-5 h-5 text-amber-600 mt-1 flex-shrink-0" />
                     <div>
-                      <strong className="text-slate-900">{t('legal.companyInfo.fiscalAddress')}</strong>
-                      <p className="text-slate-700">{t('legal.companyInfo.fiscalAddressValue')}</p>
-                    </div>
-                  </div>
-                  <div className="flex items-start space-x-3">
-                    <Mail className="w-5 h-5 text-amber-600 mt-1 flex-shrink-0" />
-                    <div>
                       <strong className="text-slate-900">{t('legal.companyInfo.contact')}</strong>
                       <p className="text-slate-700">{t('legal.companyInfo.contactValue')}</p>
                     </div>

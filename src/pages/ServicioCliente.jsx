@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import {
-  MessageCircle, ArrowRight, Send, MapPin, Phone, Mail, FileText,
+  MessageCircle, ArrowRight, Send, Phone, Mail, FileText,
   Facebook, Twitter, Linkedin
 } from 'lucide-react'
 
@@ -258,17 +258,6 @@ export default function ServicioCliente() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.8 }}
               >
-                {/* Office */}
-                <div className="bg-white p-8 rounded-3xl shadow-xl border border-slate-200">
-                  <div className="flex items-center mb-6">
-                    <div className="w-12 h-12 bg-gradient-to-r from-amber-500 to-orange-500 rounded-xl flex items-center justify-center mr-4">
-                      <MapPin className="w-6 h-6 text-white" />
-                    </div>
-                    <h3 className="text-2xl font-bold text-slate-900">{t('customerService.office')}</h3>
-                  </div>
-                  <p className="text-slate-600 text-lg">Armenia, Quindío, Colombia</p>
-                </div>
-
                 {/* Contact Methods */}
                 <div className="space-y-6">
                   <h3 className="text-2xl font-bold text-slate-900 mb-6">{t('customerService.contactUs')}</h3>

@@ -51,7 +51,7 @@ export default function Header() {
             >
               <img 
                 src={logo} 
-                alt="GMVP Credifinanzas S.A.S - Asesoramiento financiero y crediticio" 
+                alt="GMVP Asesoramiento Financiero y Crediticio" 
                 className="h-20 w-auto object-contain"
               />
               <div className="absolute inset-0 bg-gradient-to-r from-amber-400 to-orange-500 rounded-full opacity-0 group-hover:opacity-10 blur-md transition-opacity duration-300"></div>

@@ -80,7 +80,7 @@ export default function NuestraCompania() {
                 transition={{ duration: 0.8 }}
               >
                 <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-8">
-                  {t('company.mission.title')} <span className="text-amber-500">{t('company.mission.title')}</span>
+                  <span className="text-amber-500">{t('company.mission.title')}</span>
                 </h2>
                 <p className="text-lg text-slate-600 mb-8 leading-relaxed">
                   {t('company.mission.description')}
@@ -110,7 +110,7 @@ export default function NuestraCompania() {
                 transition={{ duration: 0.8 }}
               >
                 <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-8">
-                  {t('company.vision.title')} <span className="text-amber-500">{t('company.vision.title')}</span>
+                  <span className="text-amber-500">{t('company.vision.title')}</span>
                 </h2>
                 <p className="text-lg text-slate-600 mb-8 leading-relaxed">
                   {t('company.vision.description')}
@@ -159,7 +159,7 @@ export default function NuestraCompania() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">
-                {t('company.values.title')} <span className="text-amber-500">{t('company.values.title')}</span>
+                <span className="text-amber-500">{t('company.values.title')}</span>
               </h2>
               <p className="text-xl text-slate-600 max-w-4xl mx-auto">
                 {t('company.values.description')}
@@ -213,7 +213,7 @@ export default function NuestraCompania() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">
-                {t('company.history.title')} <span className="text-amber-500">{t('company.history.title')}</span>
+                <span className="text-amber-500">{t('company.history.title')}</span>
               </h2>
               <p className="text-xl text-slate-600">
                 {t('company.history.description')}
@@ -227,7 +227,7 @@ export default function NuestraCompania() {
                   { year: "2015", title: t('company.history.milestones.2015.title'), desc: t('company.history.milestones.2015.description'), icon: Building2, align: "right" },
                   { year: "2016", title: t('company.history.milestones.2016.title'), desc: t('company.history.milestones.2016.description'), icon: Shield, align: "left" },
                   { year: "2018", title: t('company.history.milestones.2018.title'), desc: t('company.history.milestones.2018.description'), icon: Globe, align: "right" },
-                  { year: "2020", title: t('company.history.milestones.2020.title'), desc: t('company.history.milestones.2020.description'), icon: Award, align: "left" },
+                  { year: "2022", title: t('company.history.milestones.2022.title'), desc: t('company.history.milestones.2022.description'), icon: Award, align: "left" },
                   { year: "2025", title: t('company.history.milestones.2025.title'), desc: t('company.history.milestones.2025.description'), icon: Globe, align: "right" }
                 ].map((milestone, index) => (
                   <motion.div

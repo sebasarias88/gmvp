@@ -12,11 +12,10 @@
     "badge": "Líderes en Soluciones Crediticias",
     "title": "Transforma tu",
     "titleHighlight": "Futuro Financiero",
-    "description": "GMVP asesoramiento financiero y crediticio, somos una compañía, para personas naturales y jurídicas, requieran asesoramiento o financiamiento, asesorías en reportes en las centrales de riesgos, inicio de vida crediticia, recuperación crediticia, eliminación de reportes de DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, por via juridica o negociación, adquisición de productos financieros.",
+    "description": "GMVP Asesoramiento Financiero y Crediticio, somos una compañía, para personas naturales y jurídicas, requieran asesoramiento o financiamiento, asesorías en reportes en las centrales de riesgos, inicio de vida crediticia, recuperación crediticia, eliminación de reportes de DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, por via juridica o negociación, adquisición de productos financieros.",
     "freeConsultation": "Consulta Gratuita",
     "viewServices": "Ver Servicios",
     "rating": "4.9/5 (1000+ reseñas)",
-    "location": "Bogotá D.C., Armenia, Quindío, Pereira Risaralda",
     "creditEvolution": "Evolución Crediticia",
     "progress": "Progreso en tiempo real",
     "live": "LIVE",
@@ -46,25 +45,17 @@
         "title": "Asesorías Financieras",
         "description": "Estrategias personalizadas para salir de centrales de riesgo"
       },
-      "insurance": {
-        "title": "Seguros",
-        "description": "Financiamos seguros con las mejores tasas del mercado"
-      },
-      "portfolio": {
-        "title": "Compra de Cartera",
-        "description": "Compramos carteras con análisis experto gratuito"
-      },
-      "revolving": {
-        "title": "Crédito Rotativo",
-        "description": "Cupo rotativo para reactivar tu historial crediticio"
+      "credit": {
+        "title": "Asesorías Crediticias",
+        "description": "Orientación experta para mejorar tu historial crediticio"
       }
     },
-    "whyChoose": "¿Por qué elegir GMVP Financiera?",
+    "whyChoose": "¿Por qué elegir GMVP Asesoramiento Financiero y Crediticio?",
     "whyChooseDescription": "Nos comprometemos a brindarte la mejor experiencia financiera con resultados garantizados",
     "features": {
       "fast": {
         "title": "Resultados Rápidos",
-        "description": "Ve mejoras en tu historial crediticio en 30 días"
+        "description": "Ve mejoras en tu historial crediticio en 60 días"
       },
       "personalized": {
         "title": "Estrategias Personalizadas",
@@ -76,7 +67,7 @@
       },
       "guaranteed": {
         "title": "Garantía de Resultados",
-        "description": "Si no cumples con el proceso, te devolvemos tu dinero"
+        "description": "Garantizamos los resultados del proceso a seguir."
       }
     },
     "testimonials": "Historias de Éxito",
@@ -105,7 +96,7 @@
     "cta": {
       "title": "¿Listo para transformar tu",
       "titleHighlight": "Futuro Financiero?",
-      "description": "En GMVP asesoramiento financiero y crediticio contamos con los mejores Asesores Financieros y Abogados, con un amplio portafolio de servicios, productos financieros y asesoramiento especializado.",
+      "description": "En GMVP Asesoramiento Financiero y Crediticio contamos con los mejores Asesores Financieros y Abogados, con un amplio portafolio de servicios, productos financieros y asesoramiento especializado.",
       "button": "Consulta Gratuita Ahora",
       "viewServices": "Ver Servicios"
     }
@@ -115,12 +106,12 @@
     "title": "Transformando",
     "titleHighlight": "Vidas Financieras",
     "titleSuffix": "desde 2015",
-    "description": "GMVP asesoramiento financiero y crediticio, somos una compañía, para personas naturales y jurídicas, requieran asesoramiento o financiamiento, asesorías en reportes en las centrales de riesgos, inicio de vida crediticia, recuperación crediticia, eliminación de reportes de DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, por via juridica o negociación, adquisición de productos financieros.",
+    "description": "GMVP Asesoramiento Financiero y Crediticio, somos una compañía, para personas naturales y jurídicas, requieran asesoramiento o financiamiento, asesorías en reportes en las centrales de riesgos, inicio de vida crediticia, recuperación crediticia, eliminación de reportes de DATACREDITO-EXPERIAN, CIFIN-TRANSUNION, por via juridica o negociación, adquisición de productos financieros.",
     "knowTeam": "Conoce Nuestro Equipo",
     "viewServices": "Ver Servicios",
     "mission": {
       "title": "Nuestra Misión",
-      "description": "Ser GMVP compañía de asesoramiento financiero y crediticio, para personas que deseen iniciar vida crediticia, o deseen reiniciar o mejorar su historial crediticio a través de soluciones de fácil acceso.",
+      "description": "Ser gmvp compañía de asesoramiento financiero y crediticio, para personas que deseen iniciar vida crediticia, o deseen reiniciar o mejorar su historial crediticio a través de soluciones de fácil acceso.",
       "items": [
         "Estrategias personalizadas para cada caso",
         "Transparencia total en nuestros procesos",
@@ -141,7 +132,7 @@
     },
     "values": {
       "title": "Nuestros Valores",
-      "description": "Los principios que guían cada decisión y acción en GMVP Credifinanzas",
+      "description": "Los principios que guían cada decisión y acción en GMVP Asesoramiento Financiero y Crediticio",
       "passion": {
         "title": "Pasión por el Cliente",
         "description": "Nuestro compromiso total, respeto por los clientes, con una gran calidez humana, vocación de servicio para todos y público en general."
@@ -165,11 +156,11 @@
     },
     "history": {
       "title": "Nuestra Historia",
-      "description": "La historia de GMVP asesoramiento financiero y crediticio, comenzó en 2015 cuando identificamos una necesidad real en el mercado colombiano: la falta de orientación especializada para las personas que enfrentaban dificultades con las centrales de riesgo. Desde entonces, hemos desarrollado estrategias efectivas para ayudar a nuestros clientes a recuperar su salud financiera y acceder a nuevas oportunidades crediticias.",
+      "description": "La historia de GMVP Asesoramiento Financiero y Crediticio, comenzó en 2015 cuando identificamos una necesidad real en el mercado colombiano: la falta de orientación especializada para las personas que enfrentaban dificultades con las centrales de riesgo. Desde entonces, hemos desarrollado estrategias efectivas para ayudar a nuestros clientes a recuperar su salud financiera y acceder a nuevas oportunidades crediticias.",
       "milestones": {
         "2015": {
           "title": "El Inicio de una Visión",
-          "description": "Fundamos GMVP asesoramiento financiero y crediticio, con la convicción de que todos merecen una segunda oportunidad financiera. Nacimos para ser el puente entre las dificultades crediticias y un futuro financiero próspero."
+          "description": "Fundamos GMVP Asesoramiento Financiero y Crediticio, con la convicción de que todos merecen una segunda oportunidad financiera. Nacimos para ser el puente entre las dificultades crediticias y un futuro financiero próspero."
         },
         "2016": {
           "title": "Desarrollo de Metodologías Especializadas",
@@ -179,7 +170,7 @@
           "title": "Expansión y Diversificación",
           "description": "Ampliamos nuestro portafolio de servicios para atender tanto a personas naturales como jurídicas, ofreciendo soluciones integrales de asesoramiento financiero y facilitación de créditos."
         },
-        "2020": {
+        "2022": {
           "title": "Innovación en Colocaciones",
           "description": "Implementamos nuestro programa de crédito, a nuestros clientes a obtener su primer crédito o reactivar su historial crediticio a través de cooperativas con el respaldo de instituciones financieras confiables."
         },
@@ -193,7 +184,7 @@
       "needHelp": "¿Necesitas Ayuda?",
       "haveQuestions": "¿Tienes",
       "questions": "Preguntas?",
-      "description": "En GMVP asesoramiento financiero y crediticio contamos con los mejores Asesores Financieros y Abogados, con un amplio portafolio de servicios, productos financieros y asesoramiento especializado.",
+      "description": "En GMVP Asesoramiento Financiero y Crediticio contamos con los mejores Asesores Financieros y Abogados, con un amplio portafolio de servicios, productos financieros y asesoramiento especializado.",
       "contactNow": "Contáctanos Ahora",
       "ourServices": "Nuestros Servicios",
       "specializedAdvisory": "Asesoría Especializada",
@@ -205,7 +196,7 @@
     "badge": "Soluciones Financieras",
     "title": "Productos y",
     "titleHighlight": "Servicios",
-    "description": "En GMVP asesoramiento financiero y crediticio, ofrecemos una gama completa de soluciones financieras diseñadas para mejorar tu historial crediticio y acceder a mejores oportunidades financieras.",
+    "description": "En GMVP Asesoramiento Financiero y Crediticio, ofrecemos una gama completa de soluciones financieras diseñadas para mejorar tu historial crediticio y acceder a mejores oportunidades financieras.",
     "freeConsultation": "Consulta Gratuita",
     "knowHistory": "Conoce Nuestra Historia",
     "ourServices": "Nuestros Servicios",
@@ -215,17 +206,9 @@
         "title": "Asesorías Financieras",
         "subtitle": "Salimos de Centrales de Riesgo"
       },
-      "seguros": {
-        "title": "Seguros",
-        "subtitle": "Financiamos tu Seguro"
-      },
-      "cartera": {
-        "title": "Compra de Cartera",
-        "subtitle": "Compramos tu Deuda"
-      },
-      "rotativo": {
-        "title": "Crédito Rotativo",
-        "subtitle": "Reactive tu Historial"
+      "asesoriasCrediticias": {
+        "title": "Asesorías Crediticias",
+        "subtitle": "Mejora tu Historial Crediticio"
       }
     },
     "details": {
@@ -239,15 +222,14 @@
     "asesorias": {
       "title": "Asesorías Financieras",
       "subtitle": "Salimos de Centrales de Riesgo",
-      "description": "Recuperamos vida crediticia a través de via jurídica negociaciones para limpiar Centrales de riesgos. Te ayudamos a salir de cifin-transunion, Datacrédito- experian, y otras centrales de riesgo con estrategias personalizadas y resultados garantizados.",
+      "description": "Recuperamos vida crediticia a través de vía jurídica o negociación con acreedores para limpiar las centrales de riesgo. Te ayudamos a salir de cifin-transunion, Datacrédito-experian, y otras centrales de riesgo con estrategias personalizadas y resultados garantizados.",
       "duration": "90-120 días",
       "success": "95% tasa",
       "includes": [
         "Análisis completo de tu historial crediticio",
         "Estrategias personalizadas por caso",
         "Acompañamiento durante todo el proceso",
-        "Resultados comprobables en 30-120 días",
-        "Garantía de satisfacción"
+        "Resultados comprobables en 60-120 días"
       ],
       "benefits": [
         "95% de tasa de éxito",
@@ -256,9 +238,35 @@
         "Sin costos ocultos"
       ],
       "requirements": [
-        "Documento de identidad",
+        "Cédula de ciudadanía",
         "Certificados de ingresos",
         "Historial crediticio actual"
+      ]
+    },
+    "asesoriasCrediticias": {
+      "title": "Asesorías Crediticias",
+      "subtitle": "Mejora tu Historial Crediticio",
+      "description": "Orientación experta para mejorar tu historial crediticio, entender cómo funcionan las centrales de riesgo, y desarrollar estrategias personalizadas para construir un historial crediticio sólido.",
+      "duration": "30-90 días",
+      "success": "90% tasa",
+      "includes": [
+        "Evaluación completa de tu perfil crediticio",
+        "Estrategias personalizadas de mejora",
+        "Educación sobre centrales de riesgo",
+        "Plan de acción detallado",
+        "Seguimiento continuo del progreso"
+      ],
+      "benefits": [
+        "Mejora significativa del score crediticio",
+        "Comprensión clara de tu historial",
+        "Estrategias a largo plazo",
+        "Asesoría continua y personalizada"
+      ],
+      "requirements": [
+        "Documento de identidad",
+        "Certificados de ingresos",
+        "Historial crediticio actual",
+        "Información de productos financieros activos"
       ]
     },
     "seguros": {
@@ -341,15 +349,15 @@
       "description": "Respuestas a las dudas más comunes sobre nuestros servicios",
       "questions": {
         "q1": "¿Cuánto tiempo toma el proceso de asesoría financiera?",
-        "a1": "El proceso completo toma entre 30 y 120 días dependiendo de la complejidad del caso. Trabajamos de manera eficiente para obtener resultados lo más rápido posible.",
+        "a1": "El proceso completo toma entre 60 y 120 días dependiendo del caso. Trabajamos de manera eficiente para obtener resultados lo más rápido posible.",
         "q2": "¿Qué documentos necesito para solicitar un servicio?",
         "a2": "Los documentos básicos son: documento de identidad, certificados de ingresos, y dependiendo del servicio, información adicional específica. Te guiamos en todo el proceso.",
         "q3": "¿Hay garantía en los servicios?",
-        "a3": "Sí, ofrecemos garantía de satisfacción. Si no cumples con los requisitos y seguimos nuestro proceso, garantizamos resultados o devolvemos tu dinero.",
+        "a3": "Sí, ofrecemos garantía de satisfacción. Nuestro proceso está diseñado para entregar resultados reales y verificables.",
         "q4": "¿Puedo combinar varios servicios?",
-        "a4": "Absolutamente. Muchos de nuestros clientes combinan asesoría financiera con compra de cartera o crédito rotativo para obtener mejores resultados.",
+        "a4": "Absolutamente. Muchos de nuestros clientes combinan asesoría financiera con compra de cartera o crédito rotativo para obtener mejores resultados, a través del sector cooperativo o financiero.",
         "q5": "¿Atienden en toda Colombia?",
-        "a5": "Atendemos en Bogota D.C., Armenia, Quindío, Pereira Risaralda, presencialmente, virtualmente en todo Colombia y el exterior."
+        "a5": "Atendemos presencialmente en Bogota D.C., Armenia, Quindío, Pereira Risaralda, y virtualmente en todo Colombia y el exterior."
       }
     },
     "cta": {
@@ -387,7 +395,6 @@
       "cellphonePlaceholder": "Tu número celular",
       "cityPlaceholder": "Tu ciudad"
     },
-    "office": "Oficina",
     "contactUs": "Contáctanos",
     "contactMethods": {
       "phone": {
@@ -421,18 +428,16 @@
       "privacy": "Política de privacidad",
       "cookies": "Política de Cookies",
       "legal": "Aviso Legal",
-      "copyright": "Copyright © 2025 GMVP Credifinanzas S.A.S"
+      "copyright": "Copyright © 2025 GMVP Asesoramiento Financiero y Crediticio"
     },
     "formSuccess": "¡Gracias por tu mensaje! Nos pondremos en contacto contigo pronto."
   },
   "footer": {
-    "companyName": "GMVP Credifinanzas",
+    "companyName": "Asesoramiento Financiero y Crediticio",
     "tagline": "Soluciones Financieras",
-    "description": "Transformamos tu historial crediticio con estrategias personalizadas y resultados garantizados. Más de 10 años ayudando a colombianos a acceder a mejores oportunidades financieras.",
+    "description": "Transformamos tu historial crediticio con estrategias personalizadas y resultados garantizados. 10 años ayudando a colombianos a acceder a mejores oportunidades financieras.",
     "reviews": "1000+ reseñas",
     "successRate": "Tasa de éxito",
-    "location": "Bogotá D.C., Armenia, Quindío, Pereira Risaralda",
-    "locationDescription": "Presencialmente, virtualmente en todo Colombia y el exterior",
     "phone": "+57 3186401900",
     "schedule": "Lunes a Viernes 8AM - 6PM",
     "email": "info@gmvpcredifinanzas.com",
@@ -445,7 +450,7 @@
       "Asesoría crediticias",
       "Personas naturales y juridicas"
     ],
-    "copyright": "© 2025 GMVP Credifinanzas S.A.S. Todos los derechos reservados.",
+    "copyright": "© 2025 GMVP Asesoramiento Financiero y Crediticio. Todos los derechos reservados.",
     "privacyPolicy": "Política de Privacidad",
     "cookiePolicy": "Política de Cookies",
     "legalNotice": "Aviso Legal"
@@ -526,6 +531,10 @@
         "security": {
           "title": "Seguridad de la Información",
           "description": "Protección de datos sensibles"
+        },
+        "sic": {
+          "title": "Superintendencia de Industria y Comercio",
+          "description": "Regulación comercial y protección al consumidor"
         }
       }
     },
@@ -539,7 +548,7 @@
       "privacy": "Política de privacidad",
       "cookies": "Política de Cookies",
       "legal": "Aviso Legal",
-      "copyright": "Copyright © 2025 GMVP Credifinanzas S.A.S"
+      "copyright": "Copyright © 2025 GMVP Asesoramiento Financiero y Crediticio"
     }
   },
   "privacy": {
@@ -547,7 +556,7 @@
     "titleHighlight": "Privacidad",
     "badge": "Protección de Datos",
     "description": "Transparencia y protección de tu información personal",
-    "intro": "Las Políticas de Privacidad de <strong>GMVP CREDIFINANZAS S.A.S</strong> establecen los términos en que gmvpcredifinanzas.com usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Estamos comprometidos con la seguridad de los datos de los usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento.",
+    "intro": "Las Políticas de Privacidad de <strong>GMVP Asesoramiento Financiero y Crediticio</strong> establecen los términos en que gmvpcredifinanzas.com usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Estamos comprometidos con la seguridad de los datos de los usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento.",
     "howDataObtained": {
       "title": "¿Cómo se obtienen los datos?",
       "description": "Existen diferentes medios:",
@@ -604,11 +613,9 @@
     "dataController": {
       "title": "Responsable del tratamiento de datos",
       "identity": "Identidad del Responsable:",
-      "identityValue": "GMVP CREDIFINANZAS S.A.S",
+      "identityValue": "GMVP Asesoramiento Financiero y Crediticio",
       "commercialName": "Nombre Comercial:",
       "commercialNameValue": "gmvpcredifinanzas.com",
-      "address": "Dirección:",
-      "addressValue": "Armenia, Colombia",
       "email": "Correo Electrónico:",
       "emailValue": "info@gmvpcredifinanzas.com"
     },
@@ -617,7 +624,7 @@
       "description": "Este sitio web pudiera contener enlaces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas."
     },
     "additional": {
-      "title": "Además de las Políticas de Privacidad de GMVP CREDIFINANZAS S.A.S",
+      "title": "Además de las Políticas de Privacidad de GMVP Asesoramiento Financiero y Crediticio",
       "description": "también puedes ver:",
       "cookies": "Políticas de Cookies",
       "legal": "Aviso Legal"
@@ -628,7 +635,7 @@
     "titleHighlight": "Cookies",
     "badge": "Tecnología Web",
     "description": "Información sobre el uso de cookies en nuestro sitio web",
-    "intro": "En la Política de Cookies de <strong>GMVP CREDIFINANZAS S.A.S</strong>, cumplimos con avisarte que este sitio puede recolectar información en forma automática al utilizar cookies, es por esto que solicitamos con confirmación y te pedimos que leas atentamente tanto las políticas de cookies como las políticas de privacidad, para que puedas disfrutar del contenido con total tranquilidad.",
+    "intro": "En la Política de Cookies de <strong>GMVP Asesoramiento Financiero y Crediticio</strong>, cumplimos con avisarte que este sitio puede recolectar información en forma automática al utilizar cookies, es por esto que solicitamos con confirmación y te pedimos que leas atentamente tanto las políticas de cookies como las políticas de privacidad, para que puedas disfrutar del contenido con total tranquilidad.",
     "whatAre": {
       "title": "¿Qué son las Cookies?",
       "description": "Las cookies constituyen una herramienta empleada por los servidores Web para almacenar y recuperar información acerca de sus visitantes. No es más que un fichero de texto que algunos servidores piden a nuestro navegador que escriba en nuestro disco duro, con información acerca de lo que hemos estado haciendo por sus páginas. Poseen una fecha de caducidad, que puede oscilar desde el tiempo que dure la sesión hasta una fecha futura especificada, a partir de la cual dejan de ser operativa."
@@ -675,7 +682,7 @@
       },
       "thirdParty": {
         "title": "Cookies de terceros:",
-        "description": "Esta web, como la mayoría de sitios web, incluye funcionalidades proporcionadas por terceros, por lo tanto en la política de cookies de <strong>GMVP CREDIFINANZAS S.A.S</strong> cumplimos con mencionarlas.",
+        "description": "Esta web, como la mayoría de sitios web, incluye funcionalidades proporcionadas por terceros, por lo tanto en la política de cookies de <strong>GMVP Asesoramiento Financiero y Crediticio</strong> cumplimos con mencionarlas.",
         "analytics": {
           "title": "Cookies de análisis:",
           "description": "Son recabadas únicamente por terceros, como por ejemplo Google Analytics, que nos permite cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio ofertado. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta de productos o servicios que te ofrecemos."
@@ -719,7 +726,7 @@
       }
     },
     "additional": {
-      "title": "Además de la Política de Cookies de GMVP CREDIFINANZAS S.A.S",
+      "title": "Además de la Política de Cookies de GMVP Asesoramiento Financiero y Crediticio",
       "description": "también puedes ver:",
       "privacy": "Políticas de Privacidad",
       "legal": "Aviso Legal"
@@ -730,15 +737,13 @@
     "titleHighlight": "Legal",
     "badge": "Términos y Condiciones",
     "description": "Términos de uso del sitio web",
-    "intro1": "El presente <strong>AVISO LEGAL</strong> de <strong>GMVP CREDIFINANZAS S.A.S</strong> regula los derechos y obligaciones, en relación al acceso, navegación y utilización de la presente web sin perjuicio de que <strong>GMVP CREDIFINANZAS S.A.S</strong> se reserve el derecho a modificar, sin previo aviso, su contenido, siendo vigentes las que se encuentren publicadas en el momento de navegación.",
+    "intro1": "El presente <strong>AVISO LEGAL</strong> de <strong>GMVP Asesoramiento Financiero y Crediticio</strong> regula los derechos y obligaciones, en relación al acceso, navegación y utilización de la presente web sin perjuicio de que <strong>GMVP Asesoramiento Financiero y Crediticio</strong> se reserve el derecho a modificar, sin previo aviso, su contenido, siendo vigentes las que se encuentren publicadas en el momento de navegación.",
     "intro2": "Mediante la navegación, visualización y uso de esta web adquieres la condición de usuario y por tanto implica por tu parte la aceptación expresa de todas las cláusulas que indicamos en el presente Aviso Legal, así como el resto de advertencias o cláusulas específicas que se establezcan en las diferentes secciones para la contratación, uso de servicios, productos, inscripciones, o secciones de la Página.",
     "warning": "Por lo que en caso de no aceptar las cláusulas establecidas en el presente Aviso Legal, deberás abstenerte de acceder y/o utilizar los servicios y/o contenidos puestos a tu disposición en la Página, procediendo a abandonar la misma.",
-    "termination": "<strong>GMVP CREDIFINANZAS S.A.S</strong> podrá dar por terminado, suspender o interrumpir, en cualquier momento sin necesidad de previo aviso, el acceso a los contenidos de la página, sin posibilidad por parte del Usuario de exigir indemnización alguna. No obstante, en el caso de cierre de la plataforma, se devolverá todo pago que se haya realizado por suscripciones anuales no completadas.",
+    "termination": "<strong>GMVP Asesoramiento Financiero y Crediticio</strong> podrá dar por terminado, suspender o interrumpir, en cualquier momento sin necesidad de previo aviso, el acceso a los contenidos de la página, sin posibilidad por parte del Usuario de exigir indemnización alguna. No obstante, en el caso de cierre de la plataforma, se devolverá todo pago que se haya realizado por suscripciones anuales no completadas.",
     "companyInfo": {
       "title": "Información Personal y Fiscal del Responsable de la Web",
-      "description": "Esta web, <strong>gmvpcredifinanzas.com</strong>, pertenece a <strong>GMVP CREDIFINANZAS S.A.S</strong>.",
-      "fiscalAddress": "Domicilio fiscal del responsable de la web:",
-      "fiscalAddressValue": "Armenia, Quindío",
+      "description": "Esta web, <strong>gmvpcredifinanzas.com</strong>, pertenece a <strong>GMVP Asesoramiento Financiero y Crediticio</strong>.",
       "contact": "Contacto:",
       "contactValue": "info@gmvpcredifinanzas.com"
     },
@@ -755,7 +760,7 @@
       }
     },
     "additional": {
-      "title": "Además del Aviso Legal de GMVP CREDIFINANZAS S.A.S",
+      "title": "Además del Aviso Legal de GMVP Asesoramiento Financiero y Crediticio",
       "description": "también puedes ver:",
       "privacy": "Nuestra Política de Privacidad",
       "cookies": "Nuestra Política de Cookies"
@@ -764,6 +769,7 @@
   "common": {
     "language": "Idioma",
     "spanish": "Español",
-    "english": "English"
+    "english": "English",
+    "visits": "Visitas"
   }
 }

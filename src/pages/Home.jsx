@@ -2,9 +2,10 @@ import { motion } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import {
-  Phone, ArrowRight, Star, Globe, Play, TrendingUp, Shield, CreditCard, Users,
-  Zap, Target, DollarSign, Award
+  Phone, ArrowRight, Star, Play, TrendingUp, Shield, CreditCard, Users,
+  Zap, Target, DollarSign, Award, FileText
 } from 'lucide-react'
+import VisitCounter from '../components/VisitCounter'
 import business1 from '../assets/business1.jpg'
 import business2 from '../assets/business2.jpg'
 import business3 from '../assets/business3.jpg'
@@ -92,10 +93,7 @@ export default function Home() {
                     </div>
                     <span className="text-lg font-semibold text-white">{t('home.rating')}</span>
                   </div>
-                  <div className="flex items-center">
-                    <Globe className="w-5 h-5 mr-2 text-slate-300" />
-                    <span className="text-lg text-white">{t('home.location')}</span>
-                  </div>
+                  <VisitCounter variant="hero" />
                 </div>
               </motion.div>
 
@@ -378,19 +376,17 @@ export default function Home() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">
-                {t('home.services')} <span className="text-amber-500">{t('home.services')}</span>
+                <span className="text-amber-500">{t('home.services')}</span>
               </h2>
               <p className="text-xl text-slate-600 max-w-3xl mx-auto">
                 {t('home.servicesDescription')}
               </p>
             </motion.div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               {[
                 { icon: Shield, title: t('home.serviceItems.financial.title'), desc: t('home.serviceItems.financial.description'), color: "from-blue-500 to-blue-600" },
-                { icon: CreditCard, title: t('home.serviceItems.insurance.title'), desc: t('home.serviceItems.insurance.description'), color: "from-green-500 to-green-600" },
-                { icon: TrendingUp, title: t('home.serviceItems.portfolio.title'), desc: t('home.serviceItems.portfolio.description'), color: "from-purple-500 to-purple-600" },
-                { icon: Users, title: t('home.serviceItems.revolving.title'), desc: t('home.serviceItems.revolving.description'), color: "from-orange-500 to-orange-600" }
+                { icon: FileText, title: t('home.serviceItems.credit.title'), desc: t('home.serviceItems.credit.description'), color: "from-indigo-500 to-indigo-600" }
               ].map((service, index) => (
                 <motion.div
                   key={index}
@@ -405,7 +401,7 @@ export default function Home() {
                   <div 
                     className="absolute inset-0 opacity-10 group-hover:opacity-15 transition-opacity duration-500"
                     style={{
-                      backgroundImage: `url(${[business6, business7, business8, business9][index]})`,
+                      backgroundImage: `url(${[business6, business10][index]})`,
                       backgroundSize: 'cover',
                       backgroundPosition: 'center'
                     }}
@@ -504,7 +500,7 @@ export default function Home() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">
-                {t('home.testimonials')} <span className="text-amber-500">{t('home.testimonials')}</span>
+                <span className="text-amber-500">{t('home.testimonials')}</span>
               </h2>
               <p className="text-xl text-slate-600 max-w-3xl mx-auto">
                 {t('home.testimonialsDescription')}

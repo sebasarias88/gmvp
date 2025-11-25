@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Header from './components/layout/Header'
 import Footer from './components/layout/Footer'
 import ScrollToTop from './components/ScrollToTop'
+import DigitalClock from './components/DigitalClock'
 import Home from './pages/Home'
 import NuestraCompania from './pages/NuestraCompania'
 import ProductosServicios from './pages/ProductosServicios'
@@ -29,6 +30,11 @@ function App() {
           <Route path="/servicio-cliente" element={<ServicioCliente />} />
         </Routes>
         <Footer />
+        
+        {/* Floating Digital Clock */}
+        <div className="fixed bottom-6 right-6 z-40 hidden lg:block">
+          <DigitalClock variant="floating" />
+        </div>
       </div>
     </BrowserRouter>
   )

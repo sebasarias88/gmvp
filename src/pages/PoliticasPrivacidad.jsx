@@ -134,10 +134,6 @@ export default function PoliticasPrivacidad() {
                       <p className="text-slate-700">{t('privacy.dataController.commercialNameValue')}</p>
                     </div>
                     <div>
-                      <strong className="text-slate-900">{t('privacy.dataController.address')}</strong>
-                      <p className="text-slate-700">{t('privacy.dataController.addressValue')}</p>
-                    </div>
-                    <div>
                       <strong className="text-slate-900">{t('privacy.dataController.email')}</strong>
                       <p className="text-slate-700">{t('privacy.dataController.emailValue')}</p>
                     </div>

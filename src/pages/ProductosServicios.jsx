@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import {
   Shield, ArrowRight, MessageCircle, Star, Clock, Target, Phone,
-  CheckCircle2, FileText, Zap, CreditCard, TrendingUp, Users
+  CheckCircle2, FileText, Zap
 } from 'lucide-react'
 import business6 from '../assets/business6.jpg'
 import business7 from '../assets/business7.jpg'
@@ -28,31 +28,13 @@ export default function ProductosServicios() {
       bgImage: business6
     },
     {
-      id: 'seguros',
-      title: t('services.serviceCards.seguros.title'),
-      subtitle: t('services.serviceCards.seguros.subtitle'),
-      icon: CreditCard,
-      color: 'from-green-500 to-green-600',
-      bgColor: 'from-green-500 to-green-600',
-      bgImage: business7
-    },
-    {
-      id: 'cartera',
-      title: t('services.serviceCards.cartera.title'),
-      subtitle: t('services.serviceCards.cartera.subtitle'),
-      icon: TrendingUp,
-      color: 'from-purple-500 to-purple-600',
-      bgColor: 'from-purple-500 to-purple-600',
-      bgImage: business8
-    },
-    {
-      id: 'rotativo',
-      title: t('services.serviceCards.rotativo.title'),
-      subtitle: t('services.serviceCards.rotativo.subtitle'),
-      icon: Users,
-      color: 'from-orange-500 to-orange-600',
-      bgColor: 'from-orange-500 to-orange-600',
-      bgImage: business9
+      id: 'asesoriasCrediticias',
+      title: t('services.serviceCards.asesoriasCrediticias.title'),
+      subtitle: t('services.serviceCards.asesoriasCrediticias.subtitle'),
+      icon: FileText,
+      color: 'from-indigo-500 to-indigo-600',
+      bgColor: 'from-indigo-500 to-indigo-600',
+      bgImage: business10
     }
   ]
 
@@ -70,44 +52,18 @@ export default function ProductosServicios() {
       requirements: t('services.asesorias.requirements', { returnObjects: true }),
       whatsappMessage: "Hola%2C%20quiero%20solicitar%20el%20servicio%20de%20Asesor%C3%ADas%20Financieras%20para%20salir%20de%20centrales%20de%20riesgo"
     },
-    seguros: {
-      title: t('services.seguros.title'),
-      subtitle: t('services.seguros.subtitle'),
-      description: t('services.seguros.description'),
-      duration: t('services.seguros.duration'),
-      success: t('services.seguros.success'),
-      icon: CreditCard,
-      iconColor: 'from-green-500 to-green-600',
-      includes: t('services.seguros.includes', { returnObjects: true }),
-      benefits: t('services.seguros.benefits', { returnObjects: true }),
-      requirements: t('services.seguros.requirements', { returnObjects: true }),
-      whatsappMessage: "Hola%2C%20me%20interesa%20financiar%20un%20seguro%20%28vida%2C%20deudores%20o%20SOAT%29%20y%20quiero%20conocer%20m%C3%A1s%20sobre%20sus%20opciones"
-    },
-    cartera: {
-      title: t('services.cartera.title'),
-      subtitle: t('services.cartera.subtitle'),
-      description: t('services.cartera.description'),
-      duration: t('services.cartera.duration'),
-      success: t('services.cartera.success'),
-      icon: TrendingUp,
-      iconColor: 'from-purple-500 to-purple-600',
-      includes: t('services.cartera.includes', { returnObjects: true }),
-      benefits: t('services.cartera.benefits', { returnObjects: true }),
-      requirements: t('services.cartera.requirements', { returnObjects: true }),
-      whatsappMessage: "Hola%2C%20me%20interesa%20el%20servicio%20de%20Compra%20de%20Cartera%20para%20consolidar%20mis%20deudas"
-    },
-    rotativo: {
-      title: t('services.rotativo.title'),
-      subtitle: t('services.rotativo.subtitle'),
-      description: t('services.rotativo.description'),
-      duration: t('services.rotativo.duration'),
-      success: t('services.rotativo.success'),
-      icon: Users,
-      iconColor: 'from-orange-500 to-orange-600',
-      includes: t('services.rotativo.includes', { returnObjects: true }),
-      benefits: t('services.rotativo.benefits', { returnObjects: true }),
-      requirements: t('services.rotativo.requirements', { returnObjects: true }),
-      whatsappMessage: "Hola%2C%20quiero%20reactivar%20mi%20historial%20crediticio%20con%20un%20cr%C3%A9dito%20rotativo"
+    asesoriasCrediticias: {
+      title: t('services.asesoriasCrediticias.title'),
+      subtitle: t('services.asesoriasCrediticias.subtitle'),
+      description: t('services.asesoriasCrediticias.description'),
+      duration: t('services.asesoriasCrediticias.duration'),
+      success: t('services.asesoriasCrediticias.success'),
+      icon: FileText,
+      iconColor: 'from-indigo-500 to-indigo-600',
+      includes: t('services.asesoriasCrediticias.includes', { returnObjects: true }),
+      benefits: t('services.asesoriasCrediticias.benefits', { returnObjects: true }),
+      requirements: t('services.asesoriasCrediticias.requirements', { returnObjects: true }),
+      whatsappMessage: "Hola%2C%20quiero%20solicitar%20el%20servicio%20de%20Asesor%C3%ADas%20Crediticias%20para%20mejorar%20mi%20historial%20crediticio"
     }
   }
 
@@ -199,13 +155,13 @@ export default function ProductosServicios() {
               transition={{ duration: 0.8 }}
             >
               <h2 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6">
-                {t('services.ourServices')} <span className="text-amber-500">{t('services.ourServices')}</span>
+                <span className="text-amber-500">{t('services.ourServices')}</span>
               </h2>
               <p className="text-xl text-slate-600 max-w-3xl mx-auto">
                 {t('services.selectService')}
               </p>
             </motion.div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {services.map((service, index) => (
                 <motion.button
                   key={service.id}
