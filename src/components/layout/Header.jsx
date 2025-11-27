@@ -101,6 +101,16 @@ export default function Header() {
               {t('header.policies')}
             </Link>
             <Link
+              to="/noticias"
+              className={`relative px-4 py-2 text-sm font-semibold rounded-xl transition-all duration-300 ${
+                isActive('/noticias')
+                  ? 'text-white bg-gradient-to-r from-amber-500 to-orange-500 shadow-lg shadow-amber-500/25'
+                  : 'text-slate-700 hover:text-amber-600 hover:bg-amber-50'
+              }`}
+            >
+              {t('header.news')}
+            </Link>
+            <Link
               to="/servicio-cliente"
               className={`relative px-4 py-2 text-sm font-semibold rounded-xl transition-all duration-300 ${
                 isActive('/servicio-cliente')

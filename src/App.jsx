@@ -11,6 +11,7 @@ import PoliticasPrivacidad from './pages/PoliticasPrivacidad'
 import PoliticasCookies from './pages/PoliticasCookies'
 import AvisoLegal from './pages/AvisoLegal'
 import ServicioCliente from './pages/ServicioCliente'
+import Noticias from './pages/Noticias'
 import './App.css'
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
           <Route path="/politicas-privacidad" element={<PoliticasPrivacidad />} />
           <Route path="/politicas-cookies" element={<PoliticasCookies />} />
           <Route path="/aviso-legal" element={<AvisoLegal />} />
+          <Route path="/noticias" element={<Noticias />} />
           <Route path="/servicio-cliente" element={<ServicioCliente />} />
         </Routes>
         <Footer />

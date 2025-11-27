@@ -4,6 +4,7 @@
     "company": "Nuestra Compañía",
     "services": "Productos y Servicios",
     "policies": "Políticas",
+    "news": "Noticias",
     "customerService": "Servicio al Cliente",
     "call": "Llamar",
     "freeConsultation": "Consulta Gratis"
@@ -765,6 +766,43 @@
       "description": "también puedes ver:",
       "privacy": "Nuestra Política de Privacidad",
       "cookies": "Nuestra Política de Cookies"
+    }
+  },
+  "news": {
+    "badge": "Últimas Noticias",
+    "title": "Noticias y Actualidades",
+    "description": "Mantente informado sobre las últimas tendencias financieras, consejos crediticios y actualizaciones del sector.",
+    "readMore": "Leer más",
+    "categories": {
+      "financial": "Financiero",
+      "credit": "Crediticio",
+      "tips": "Consejos"
+    },
+    "items": {
+      "item1": {
+        "title": "Nuevas Oportunidades de Financiamiento para 2024",
+        "description": "Descubre las nuevas opciones de financiamiento disponibles este año y cómo pueden beneficiar tu situación crediticia. Aprende sobre los requisitos y procesos para acceder a estos productos."
+      },
+      "item2": {
+        "title": "Cómo Mejorar tu Puntuación Crediticia en 60 Días",
+        "description": "Estrategias efectivas y comprobadas para mejorar tu historial crediticio en un período corto. Incluye consejos prácticos y pasos concretos que puedes implementar hoy mismo."
+      },
+      "item3": {
+        "title": "Guía Completa: Eliminación de Reportes Negativos",
+        "description": "Todo lo que necesitas saber sobre el proceso de eliminación de reportes en centrales de riesgo. Conoce tus derechos y las opciones legales disponibles para limpiar tu historial."
+      },
+      "item4": {
+        "title": "Tendencias del Sector Financiero en Colombia",
+        "description": "Análisis de las últimas tendencias y cambios en el sector financiero colombiano. Información relevante sobre nuevas regulaciones y oportunidades del mercado."
+      },
+      "item5": {
+        "title": "Inicio de Vida Crediticia: Todo lo que Debes Saber",
+        "description": "Una guía completa para quienes están comenzando su vida crediticia. Aprende cómo construir un historial crediticio sólido desde cero y evitar errores comunes."
+      },
+      "item6": {
+        "title": "5 Errores Comunes que Afectan tu Crédito",
+        "description": "Identifica y evita los errores más comunes que pueden dañar tu historial crediticio. Consejos prácticos para mantener una salud financiera óptima."
+      }
     }
   },
   "common": {
