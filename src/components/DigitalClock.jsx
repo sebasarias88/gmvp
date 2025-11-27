@@ -1,10 +1,16 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 import { Clock } from 'lucide-react'
+import { useTranslation } from 'react-i18next'
 
 export default function DigitalClock({ variant = 'default', className = '' }) {
+  const { i18n } = useTranslation()
   const [time, setTime] = useState(new Date())
   const [date, setDate] = useState(new Date())
+
+  // Detectar el idioma actual
+  const currentLanguage = i18n.language || 'es'
+  const isEnglish = currentLanguage === 'en'
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -16,17 +22,10 @@ export default function DigitalClock({ variant = 'default', className = '' }) {
     return () => clearInterval(timer)
   }, [])
 
-  const formatTime = (date) => {
-    return date.toLocaleTimeString('es-CO', {
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit',
-      hour12: false
-    })
-  }
-
+  // Formatear fecha según el idioma, usando la hora local del usuario
   const formatDate = (date) => {
-    return date.toLocaleDateString('es-CO', {
+    const locale = isEnglish ? 'en-US' : 'es-CO'
+    return date.toLocaleDateString(locale, {
       weekday: 'long',
       year: 'numeric',
       month: 'long',
@@ -34,9 +33,13 @@ export default function DigitalClock({ variant = 'default', className = '' }) {
     })
   }
 
-  const hours = time.getHours().toString().padStart(2, '0')
+  // Obtener horas, minutos y segundos en formato de 12 horas (AM/PM) para ambos idiomas
+  // En Latinoamérica se usa formato de 12 horas, no de 24
+  const hour12 = time.getHours() % 12 || 12
+  const hours = hour12.toString().padStart(2, '0')
   const minutes = time.getMinutes().toString().padStart(2, '0')
   const seconds = time.getSeconds().toString().padStart(2, '0')
+  const ampm = time.getHours() >= 12 ? 'PM' : 'AM'
 
   // Variantes de diseño
   const variants = {
@@ -86,11 +89,11 @@ export default function DigitalClock({ variant = 'default', className = '' }) {
         </motion.div>
         <div className="flex-1">
           <motion.div
-            key={`${hours}${minutes}${seconds}`}
+            key={`${hours}${minutes}${seconds}${ampm}`}
             initial={{ opacity: 0, y: -5 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3 }}
-            className={`${style.time} ${variant === 'floating' ? 'text-lg' : 'text-2xl'} font-bold tracking-wider`}
+            className={`${style.time} ${variant === 'floating' ? 'text-lg' : 'text-2xl'} font-bold tracking-wider flex items-center`}
           >
             {hours}:{minutes}
             <motion.span
@@ -101,6 +104,7 @@ export default function DigitalClock({ variant = 'default', className = '' }) {
               :
             </motion.span>
             {seconds}
+            <span className="ml-2 text-sm font-semibold">{ampm}</span>
           </motion.div>
           {(variant === 'hero' || variant === 'floating') && (
             <motion.p

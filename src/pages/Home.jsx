@@ -56,6 +56,18 @@ export default function Home() {
                   </span>
                 </h1>
 
+                {/* Slogan */}
+                <motion.div
+                  className="mb-8"
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.8, delay: 0.3 }}
+                >
+                  <p className="text-2xl md:text-3xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-orange-300 to-amber-300 italic">
+                    {t('home.slogan')}
+                  </p>
+                </motion.div>
+
                 {/* Description */}
                 <p className="text-xl text-slate-200 mb-12 max-w-2xl lg:max-w-none mx-auto lg:mx-0 leading-relaxed">
                   {t('home.description')}
