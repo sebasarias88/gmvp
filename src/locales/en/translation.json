@@ -4,6 +4,7 @@
     "company": "Our Company",
     "services": "Products and Services",
     "policies": "Policies",
+    "news": "News",
     "customerService": "Customer Service",
     "call": "Call",
     "freeConsultation": "Free Consultation"
@@ -765,6 +766,43 @@
       "description": "you can also see:",
       "privacy": "Our Privacy Policy",
       "cookies": "Our Cookie Policy"
+    }
+  },
+  "news": {
+    "badge": "Latest News",
+    "title": "News and Updates",
+    "description": "Stay informed about the latest financial trends, credit tips, and sector updates.",
+    "readMore": "Read more",
+    "categories": {
+      "financial": "Financial",
+      "credit": "Credit",
+      "tips": "Tips"
+    },
+    "items": {
+      "item1": {
+        "title": "New Financing Opportunities for 2024",
+        "description": "Discover the new financing options available this year and how they can benefit your credit situation. Learn about the requirements and processes to access these products."
+      },
+      "item2": {
+        "title": "How to Improve Your Credit Score in 60 Days",
+        "description": "Effective and proven strategies to improve your credit history in a short period. Includes practical tips and concrete steps you can implement today."
+      },
+      "item3": {
+        "title": "Complete Guide: Removal of Negative Reports",
+        "description": "Everything you need to know about the process of removing reports from credit bureaus. Know your rights and the legal options available to clean your history."
+      },
+      "item4": {
+        "title": "Financial Sector Trends in Colombia",
+        "description": "Analysis of the latest trends and changes in the Colombian financial sector. Relevant information about new regulations and market opportunities."
+      },
+      "item5": {
+        "title": "Starting Your Credit Life: Everything You Need to Know",
+        "description": "A complete guide for those starting their credit life. Learn how to build a solid credit history from scratch and avoid common mistakes."
+      },
+      "item6": {
+        "title": "5 Common Mistakes That Affect Your Credit",
+        "description": "Identify and avoid the most common mistakes that can damage your credit history. Practical tips to maintain optimal financial health."
+      }
     }
   },
   "common": {
